@@ -1,0 +1,24 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="28918" filedate="2019-03-22 21:15:39" width="492px" height="720px">
+</image>
+<image path="images/book.png" filesize="217" filedate="2018-11-04 13:21:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 10:39:54" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-11-04 13:21:49" width="12px" height="12px">
+</image>
+<image path="images/front.jpg" filesize="101849" filedate="2019-03-22 21:15:39" width="499px" height="720px">
+</image>
+<image path="images/p040.jpg" filesize="88689" filedate="2019-03-22 21:15:39" width="506px" height="720px">
+</image>
+<image path="images/p066.jpg" filesize="94074" filedate="2019-03-22 21:15:39" width="501px" height="720px">
+</image>
+<image path="images/p084.jpg" filesize="95649" filedate="2019-03-22 21:15:39" width="500px" height="720px">
+</image>
+<image path="images/qrcode.png" filesize="266" filedate="2019-03-24 16:04:21" width="148px" height="148px">
+</image>
+<image path="images/spine.jpg" filesize="7127" filedate="2019-03-22 21:15:39" width="720px" height="51px">
+</image>
+<image path="images/titlepage.png" filesize="8226" filedate="2019-03-22 21:15:43" width="428px" height="720px">
+</image>
+</images>
